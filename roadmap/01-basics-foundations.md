@@ -1,39 +1,42 @@
-# Step 1: Basics & Foundations (1-2 Months)
+ # Step 1: Basics & Foundations (1-2 Months)
 
-**Goal:** Build a strong foundation in mathematics and programming.
+**Goal:** Build an unshakable foundation in the mathematics and programming fundamentals that all data science is built upon.
 
 ## 📚 Mathematics for Data Science
 
-You don't need to be a math PhD, but a solid understanding of core concepts is essential.
+A solid intuitive understanding is more important than advanced theoretical knowledge.
 
 ### Free Resources:
-1.  **MIT OpenCourseWare (OCW)**
-    *   **Linear Algebra:** [MIT 18.06](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) - Prof. Gilbert Strang's legendary course.
-    *   **Calculus:** [MIT 18.01](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/) - Single Variable Calculus.
-    *   **Probability & Statistics:** [MIT 6.041](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) - Probabilistic Systems Analysis.
+1.  **Khan Academy** (Start Here)
+    *   **Why:** The best place to brush up on concepts. Perfect for building intuition.
+    *   **Path:** Search for and complete: "Precalculus," "Statistics and probability," "Linear algebra."
 
-2.  **Khan Academy**
-    *   Perfect for brushing up on high school and early college math concepts. Search for "Linear Algebra," "Calculus," and "Statistics & Probability."
+2.  **MIT OpenCourseWare (OCW)** (Go Deeper)
+    *   **Linear Algebra:** [MIT 18.06SC by Gil Strang](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) - Focus on lectures 1-10.
+    *   **Calculus:** [MIT 18.01SC Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) - Focus on derivatives and integrals.
+    *   **Probability:** [MIT 6.041 Probabilistic Systems Analysis](https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/) - The gold standard.
 
 ## 🐍 Programming Fundamentals
 
-Choose one language to start with. **Python is highly recommended** for its simplicity and vast ecosystem in Data Science.
+**Python is highly recommended.** It's the lingua franca of data science.
 
 ### Free Resources:
-1.  **Harvard's CS50P (Python)**
-    *   **Link:** [CS50's Introduction to Programming with Python](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
-    *   **Why:** An excellent, engaging introduction to programming concepts using Python.
+1.  **Harvard's CS50P** (Best for Absolute Beginners)
+    *   **Link:** [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
+    *   **Why:** Engaging, problem-set based learning. Teaches computational thinking.
 
-2.  **Google's Python Class**
+2.  **Google's Python Class** (Good for a Quick Refresher)
     *   **Link:** [Google's Python Class](https://developers.google.com/edu/python)
-    *   **Why:** A quick, no-frills crash course for people with a bit of programming experience.
+    *   **Why:** Concise, two-day course with great videos and exercises.
+
+3.  **Python for Everybody (Coursera - Audit for Free)**
+    *   **Link:** [Py4E by Dr. Charles Severance](https://www.coursera.org/specializations/python)
+    *   **Why:** Very gentle and clear introduction, loved by many.
 
 ## ✅ Step 1 Completion Checklist
 
-- [ ] Understand core linear algebra concepts: vectors, matrices, operations.
-- [ ] Understand the basics of calculus: derivatives, integrals.
-- [ ] Understand probability fundamentals: distributions, Bayes' theorem.
-- [ ] Complete a beginner Python course.
-- [ ] Feel comfortable writing basic scripts, using functions, and importing libraries.
+- [ ] **Math:** Feel comfortable with vectors, matrices, basic derivatives/integrals, and probability distributions.
+- [ ] **Programming:** Can write scripts using variables, loops, conditionals, functions, and import libraries.
+- [ ] **Final Project:** Write a simple program, like a number guessing game or a text-based adventure.
 
 **➡️ Next Step:** [Step 2: Data Handling & Analysis](../roadmap/02-data-handling-analysis.md)
