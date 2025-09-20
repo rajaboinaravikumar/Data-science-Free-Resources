@@ -1,4 +1,4 @@
-# Intermediate Data Science Project Ideas
+ # Intermediate Data Science Project Ideas
 
 **Goal:** Practice building, evaluating, and interpreting machine learning models.
 
@@ -18,4 +18,11 @@
     *   **Data:** [NLP with Disaster Tweets Competition](https://www.kaggle.com/c/nlp-getting-started)
 
 4.  **Market Basket Analysis**
-    *   **Goal**
+    *   **Goal:** Use association rule learning to find products that are frequently bought together.
+    *   **Skills:** Unsupervised Learning (Apriori Algorithm), Rule Mining
+    *   **Data:** [Market Basket Optimization on Kaggle](https://www.kaggle.com/datasets/heeraldedhia/store-transaction-data)
+
+5.  **Image Classification with CNN**
+    *   **Goal:** Build a Convolutional Neural Network (CNN) to classify images of everyday objects.
+    *   **Skills:** Deep Learning, TensorFlow/Keras, Computer Vision
+    *   **Data:** [CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
